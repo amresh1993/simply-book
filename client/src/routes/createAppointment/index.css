@@ -1,0 +1,93 @@
+.doctor-list
+{
+    margin-left: 20px;
+    width: 70%;
+}
+
+.site-card-wrapper
+{
+    overflow: hidden;
+}
+.doctor-details
+{
+    display: flex;
+}
+
+.doc-avatar
+{
+    display: inline-flex;
+    align-items: center;
+    margin-right: 12px;
+}
+
+
+.ft-wt
+{
+    font-weight: bold;
+}
+.confirm-button
+{
+    margin: auto;
+    display: block;
+    width: 140px;
+}
+.reason-dropdown
+{
+    width: 30% !important;
+}
+
+.slot-time
+{
+
+    margin-top:5px;
+}
+
+.slot-date
+{
+    margin-top:5px;
+    height: 10%;
+    font-weight: bold;
+}
+
+#confirmAppointment .ant-form-item{
+    margin-bottom: 10px;
+}
+.book-apt
+{
+    margin: 20px;
+    width: auto;
+    border: 1px solid #59b2eb;
+    background-color: #59b2eb;
+    color: white;
+    font-size: 14px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.doc-collapse-list-item
+{
+    margin-bottom: 5px;
+}
+.select-date, .select-time
+{
+    display: flex;
+    flex-flow: wrap;
+    padding-right: 8px;
+}
+.select-date .ant-form-item, .select-time .ant-form-item {
+    padding-right: 8px;
+
+}
+
+.select-date-item .ant-radio-button-wrapper
+{
+    height: 63px;
+    text-align: center;
+}
+
+.book-apt-label
+{
+    margin: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}

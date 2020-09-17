@@ -1,0 +1,9 @@
+/* .site-page-header-ghost-wrapper {
+    box-shadow: 1px 1px 10px 1px #1890ff
+} */
+.user-dropdown, .user-dropdown:hover
+{
+    border: 1px solid #59b2eb;
+    background-color: #59b2eb;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.or {
+    display: flex;
+    justify-content: center;
+}
+.register-form-main
+{
+    position: relative;
+    width: 50%;
+    left: 22%;
+    /* top: 18%; */
+    margin-top: 70px;
+    overflow: hidden;
+}
